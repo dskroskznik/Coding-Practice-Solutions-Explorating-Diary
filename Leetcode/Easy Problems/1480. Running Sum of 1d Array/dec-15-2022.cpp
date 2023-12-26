@@ -1,6 +1,6 @@
 /*
   December 15, 2022
-  - Runtime Achieved: 0ms
+  - Runtime Achieved: 0 ms
   - Memory Achieved: 8.6 MB
 */
 class Solution {
