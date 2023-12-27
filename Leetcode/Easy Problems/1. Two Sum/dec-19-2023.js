@@ -1,7 +1,7 @@
 /*
   December 19, 2023
-  - Runtime Achieve: 47 ms
-  - Memory Achieve: 43.3 MB
+  - Runtime Achieved: 47 ms
+  - Memory Achieved: 43.3 MB
 /**
  * @param {number[]} nums
  * @param {number} target
