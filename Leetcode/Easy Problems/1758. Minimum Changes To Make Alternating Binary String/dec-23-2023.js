@@ -1,7 +1,7 @@
 /**
   December 23, 2023
-  - Runtime Achieved: 0 ms 
-  - Memory Achieved: 7.5 MB
+  - Runtime Achieved: 53 ms 
+  - Memory Achieved: 42.8 MB
 /**
  * @param {string} s
  * @return {number}
